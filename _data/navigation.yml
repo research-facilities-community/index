@@ -1,7 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "STFC Facilities in the Media"
+    url: #
+  - title: "Parliament Discussions"
+    url: #
+  - title: "Links to STFC Resources"
+    url: #
+  - title: "Community Action"
+    url: #
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
