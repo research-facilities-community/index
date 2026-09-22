@@ -1,0 +1,27 @@
+title: "My Website"
+description: "Example website"
+
+url: "https://github.com/research-facilities-community/"
+baseurl: "/research-facilities-community"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+footer:
+  links: []
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+
+markdown: kramdown
+
+include:
+  - _pages
