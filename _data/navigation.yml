@@ -2,21 +2,21 @@
 main:
 
   - title: "Collection"
-    url: /_pages/collection.md
+    url: /content/collection.md
 
   children:
   
    - title: Media
-     url: /_pages/collection.md/#media
+     url: /content/collection.md/#media
 
   - title: Official Comms
-    url: /_pages/collection.md/#official
+    url: /content/collection.md/#official
 
   - title: Testimonials
-    url: /_pages/collection.md/#testimonials
+    url: /content/collection.md/#testimonials
 
   - title: Further Links
-    url: /_pages/collection.md/#furhter_links
+    url: /content/collection.md/#furhter_links
 
 
 
