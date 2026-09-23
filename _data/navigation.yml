@@ -1,41 +1,16 @@
-# main links
 main:
-
   - title: "Collection"
-    url: /collection
+    url: /collection/
+    children:
+      - title: "Media"
+        url: /collection/#media
+      - title: "Official Comms"
+        url: /collection/#official
 
-  children:
-    
-     - title: Media
-       url: /collection/#media
-  
-    - title: Official Comms
-      url: /collection/#official
-  
-    - title: Testimonials
-      url: /collection/#testimonials
-  
-    - title: Further Links
-      url: /collection/#further_links
-
-
-
-  
   - title: "Community Action"
-    url:  /action
-  
-  children:
-    
-    - title: MP Letters
-      url:  /action/#MPletters
-    
-    - title: Community Letters
-       url: /action/#community_letters
-    
-    - title: Surveys
-       url: /action/#surveys
-    
-    - title: Townhalls
-      url:  /action/#townhalls
-
-
+    url: /action/
+    children:
+      - title: "MP Letters"
+        url: /action/#mpletters
+      - title: "Community Letters"
+        url: /action/#communityletters
