@@ -1,4 +1,25 @@
 main:
+
+  - title: "Facilities"
+    url: /facilities/
+    children:
+      - title: "ISIS Neutron and Muon Source"
+        url: /facilities/#ISIS
+      - title: "Diamond Light Source"
+        url: /facilities/#Diamond
+      - title: "Central Laser Facility"
+        url: /facilities/#CLF
+      - title: "Daresbury Laboratory"
+        url: /facilities/#Daresbury
+      - title: "Boulby Mine"
+        url: /facilities/#Boulby
+      - title: "RAL Space Facilities"
+        url: /facilities/#RALSpace
+      - title: "Hartree Centre"
+        url: /facilities/#Hartree
+      - title: "DIRAC HPC"
+        url: /facilities/#HPC
+
   - title: "Collection"
     url: /collection/
     children:
@@ -27,22 +48,4 @@ main:
       - title: "Community Townhalls"
         url: /action/#townhalls
 
-  - title: "Facilities"
-    url: /facilities/
-    children:
-      - title: "ISIS Neutron and Muon Source"
-        url: /facilities/#ISIS
-      - title: "Diamond Light Source"
-        url: /facilities/#Diamond
-      - title: "Central Laser Facility"
-        url: /facilities/#CLF
-      - title: "Daresbury Laboratory"
-        url: /facilities/#Daresbury
-      - title: "Boulby Mine"
-        url: /facilities/#Boulby
-      - title: "RAL Space Facilities"
-        url: /facilities/#RALSpace
-      - title: "Hartree Centre"
-        url: /facilities/#Hartree
-      - title: "DIRAC HPC"
-        url: /facilities/#HPC
+
