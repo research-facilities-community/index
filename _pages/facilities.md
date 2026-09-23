@@ -23,6 +23,38 @@ link to PPAN, ...Astronomy, particle Physics, and Nuclear Physics - there are sy
 
 _what do they do, how large are they, how do they serve the UK science (e.g., user access), how they under threat, more info underneath..._
 
+
+
+**Built-in styles:**
+
+{: .notice--primary}  
+Important information.  
+
+{: .notice--info}  
+Background information.  
+
+{: .notice--warning}  
+Please check details carefully.  
+
+{: .notice--success}  
+This action has been completed.  
+
+{: .notice--danger}  
+Critical warning.
+
+
+**or multi-paragraph blocks:**
+
+<div class="notice--warning" markdown="1">  
+### Important  
+
+Funding reductions may have long-term impacts on facility capability, staffing, and user access.  
+- Reduced beamtime  
+- Loss of expertise  
+- Delayed experiments  
+</div>
+
+
 ## ISIS Neutron and Muon Source {#ISIS}
 
 [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/)
