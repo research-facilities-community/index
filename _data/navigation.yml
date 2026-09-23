@@ -1,22 +1,7 @@
 # main links
 main:
 
-  - title: "Collection"
-    url: /content/collection
 
-  children:
-  
-   - title: Media
-     url: /content/collection/#media
-
-  - title: Official Comms
-    url: /content/collection/#official
-
-  - title: Testimonials
-    url: /content/collection/#testimonials
-
-  - title: Further Links
-    url: /content/collection/#further_links
 
 
 
