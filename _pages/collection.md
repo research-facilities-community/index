@@ -1,7 +1,7 @@
 ---  
-title: Collection of Resources 
+title: "Collection of Resources"
 layout: single  
-permalink: /_pages/collection  
+permalink: /collection/
 sidebar:  
   nav: "main"  
 ---
