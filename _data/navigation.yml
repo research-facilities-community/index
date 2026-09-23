@@ -25,6 +25,8 @@ main:
         url: /collection/#official
       - title: "Media Coverage"
         url: /collection/#media
+      - title: "FOI Requests"
+        url: /collection/#FOI
       - title: "Community Testimonials"
         url: /collection/#testimonials
       - title: "Further Links"
@@ -37,8 +39,6 @@ main:
         url: /action/#MPletters
       - title: "Community Letters"
         url: /action/#community_letters
-      - title: "FOI Requests"
-        url: /action/#FOI
       - title: "Testimonials"
         url: /action/#testimonials
       - title: "Surveys"
