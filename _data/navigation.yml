@@ -24,3 +24,26 @@ main:
         url: /action/#surveys
       - title: "Community Townhalls"
         url: /action/#towhalls
+        
+    - title: "Facilities"
+    url: /facilities/
+    children:
+    	# National multi-disciplinary facilities
+      - title: "ISIS Neutron and Muon Source"
+        url: /action/#ISIS
+      - title: "Diamond Light Source"
+        url: /action/#Diamond
+      - title: "Central Laser Facility"
+        url: /action/#CLF
+        # National Labs
+      - title: "Daresbury Laboratories"
+        url: /action/#Daresbury
+      - title: "Boulby Underground Mine"
+        url: /action/#Boulby
+      - title: "RAL Space Facilities"
+        url: /action/#RALSpace
+      - title: "Hartree Centre"
+        url: /action/#Hartree
+      - title: "DIRAC HPC"
+        url: /action/#HPC
+
