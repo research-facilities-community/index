@@ -7,7 +7,7 @@ sidebar:
 ---
 
 
-## Media Coverage
+## Media Coverage {#media}
 
 explainer: STFC funding covers a broad range of science, explain 50-50 split between PPAN and multi-disciplinary infrarstructure - how to acknowledge PPAN, but to make clear in which articles the multi-disciplinary facilities are the focus?
 
@@ -35,7 +35,7 @@ explainer: STFC funding covers a broad range of science, explain 50-50 split bet
 	- (PPAN) Letters to The Guardian, Friday July 31, 2026, 17:30 [Don’t let Jodrell Bank Observatory become another industrial museum](https://www.theguardian.com/science/2026/jul/31/dont-let-jodrell-bank-observatory-become-another-industrial-museum)
 
 
-## Official Communications
+## Official Communications {#official}
  
  combining STFC communications, parliamentary discussoins, and other government-led statements - keep together or disentangle?
 
@@ -58,12 +58,12 @@ explainer: STFC funding covers a broad range of science, explain 50-50 split bet
 
 
 
-## Community Testimonials
+## Community Testimonials {#testimonials}
 
 - LinkedIn, August 27, 2026 [The STFC Cuts Dementia Researchers Need to Know About](https://www.linkedin.com/pulse/stfc-cuts-dementia-researchers-need-know-adam-smith-u1ome/?trackingId=00cprPRUSuqKfDkC6kRIXA%3D%3D)
 
 
-## Further Links
+## Further Links {#further_links}
 
 
 ### Facilities
