@@ -1,7 +1,7 @@
 ---  
 title: Collection of Resources 
 layout: single  
-permalink: /content/collection.md  
+permalink: /content/collection  
 sidebar:  
   nav: "main"  
 ---
