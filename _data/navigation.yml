@@ -21,10 +21,10 @@ main:
   - title: "Collection"
     url: /collection/
     children:
-      - title: "Media Coverage"
-        url: /collection/#media
       - title: "Official Communications"
         url: /collection/#official
+      - title: "Media Coverage"
+        url: /collection/#media
       - title: "Community Testimonials"
         url: /collection/#testimonials
       - title: "Further Links"
