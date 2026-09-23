@@ -7,14 +7,14 @@ sidebar:
 ---
 
 
-TODO: Explainer needed on labs and facilities
-- impact felt across the country
-- I left out the PPAN facilities... / link to PPAN, ...Astronomy, particle Physics, and Nuclear Physics - there are synergies...
-- [STFC facility overview page](https://www.ukri.org/councils/stfc/resources-for-researchers-and-businesses/find-an-stfc-supported-facility-or-resource/)
-- _what do they do, how large are they, how do they serve the UK science (e.g., user access), how they under threat, more info underneath..._
-- provide services that require dedicated large-sclae infrastructure, with long-term funding assurances
-- risky, development, ...
+A substantial proportion of STFC funding support [multidisciplinary research infrastructure](https://www.ukri.org/councils/stfc/resources-for-researchers-and-businesses/find-an-stfc-supported-facility-or-resource/) used by scientists across across a wide range of disciplines. Researchers in materials science, chemistry, clean energy, quantum technologies, life sciences, environmental science, archaeology, cultural heritage, and medicine all depend on access to these facilities. The proposed funding cuts therefore have implications far beyond STFC-funded research itself, affecting a broad spectrum of activity that underpins healthcare, energy security, advanced manufacturing, and emerging technologies, all identified as priorities within the UK Government's Modern Industrial Strategy.
 
+Reduced access to, or loss of, national research infrastructure would have consequences extending well beyond the facilities themselves and the regions in which they are located. National laboratories serve as hubs for collaboration, training, technology development, and industrial engagement, bringing together researchers from across the UK and around the world. Their impact is felt nationwide through university partnerships, industrial innovation, supply chains, and workforce development. They also provide the high-quality experimental data needed to drive scientific discovery, support evidence-based policymaking, and develop and validate emerging technologies, including artificial intelligence systems that rely on robust and reliable scientific datasets.
+
+Access to interdisciplinary research facilities is typically provided either through contractual arrangements funded by non-STFC research grants or through competitive, peer-reviewed allocation of beam time. Because facility access is distributed across many disciplines, institutions, and funding sources, the full impact of STFC funding reductions on the UK research ecosystem can be difficult to quantify. Nevertheless, any sustained reduction in facility access, capability, or staffing is likely to have far-reaching effects on research capacity, innovation, skills development, and the UK's long-term competitiveness across multiple fields.
+
+{: .notice--warning} 
+improve, add sources
 
 
 ## ISIS Neutron and Muon Source {#ISIS}
@@ -73,7 +73,9 @@ As Diamond is run in collaboration between STFC and the Wellcome Trust, financia
 
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
-Threatened with closure if no alternative funds are secured within two years.
+The world-leading Lasers for Science Facility (LSF) is under threat of closure if it cannot switch to an alternative model for funding within 2 years. The three constituent facilities of the LSF are Octopus, Ultra, and Artemis, co-located in the Research Complex at Harwell building on the STFC Rutherford Appleton Laboratory campus. The ongoing £17.2M HiLUX project is implementing upgrades to Ultra and Artemis to provide state-of-the-art new facilities that are unmatched globally, but it will also be terminated if the LSF closes. 
+
+(source: [open letter](https://lsf-open-letter.co.uk/))
 </div>
 
 
@@ -90,7 +92,7 @@ Threatened with closure if no alternative funds are secured within two years.
 
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
-Explainer, with sources.
+Explainer needed, with sources.
 
 CLARA has been "mothballed" (sic!), even though it only this year geared up to user facility.
 </div>
