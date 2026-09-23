@@ -1,3 +1,10 @@
+---  
+title: Collection of Resources 
+layout: single  
+permalink: /_pages/collection.md  
+sidebar:  
+  nav: "main"  
+---
 
 
 ## Media Coverage
