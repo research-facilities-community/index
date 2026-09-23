@@ -43,7 +43,7 @@ main:
         url: /action/#testimonials
       - title: "Surveys"
         url: /action/#surveys
-      - title: "Community Townhalls"
+      - title: "Townhalls"
         url: /action/#townhalls
 
 
