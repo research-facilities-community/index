@@ -15,8 +15,6 @@ main:
         url: /facilities/#Boulby
       - title: "RAL Space Facilities"
         url: /facilities/#RALSpace
-      - title: "Hartree Centre"
-        url: /facilities/#Hartree
       - title: "DIRAC HPC"
         url: /facilities/#HPC
 
