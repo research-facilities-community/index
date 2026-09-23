@@ -2,15 +2,25 @@ main:
   - title: "Collection"
     url: /collection/
     children:
-      - title: "Media"
+      - title: "Media Coverage"
         url: /collection/#media
-      - title: "Official Comms"
+      - title: "Official Communications"
         url: /collection/#official
+      - title: "Community Testimonials"
+        url: /collection/#testimonials
+      - title: "Further Links"
+        url: /collection/#further_links
 
   - title: "Community Action"
     url: /action/
     children:
-      - title: "MP Letters"
+      - title: "Letters to MPs"
         url: /action/#mpletters
       - title: "Community Letters"
         url: /action/#communityletters
+      - title: "Testimonials"
+        url: /action/#testimonials
+      - title: "Surveys"
+        url: /action/#surveys
+      - title: "Community Townhalls"
+        url: /action/#towhalls
