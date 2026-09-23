@@ -31,14 +31,12 @@ Hundreds of experiments are performed every year at the facility by industrial a
 
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
-Explainer, with sources.
 
-Funding reductions may have long-term impacts on facility capability, staffing, and user access.  
-- Reduced beamtime  
-- Loss of expertise  
-- Delayed experiments  
+- Reduce operating time at ISIS Neutron and Muon Source (UKRI, 9 July 2026, [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_)).
+- UKRI (UKRI, 9 July 2026, [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_)) states that it will seek alternative funding arrangements or operating models for the Lasers for Science Facility and the muon beamlines at ISIS. If sustainable alternatives cannot be secured, these capabilities may be closed.
 
-cuts come on top of a cople of years of stagnation, with reduced eyperimental ycyles havng been run, and a loss of already ~10% reduction in staff after persistent hiring freezes
+These measures come on top of several years of constrained funding, with ISIS has already operating reduced experimental cycles, and hiring freezes have resulted in an estimated staff reduction of around 10%. 
+
 </div>
 
 
@@ -73,6 +71,8 @@ As Diamond is run in collaboration between STFC and the Wellcome Trust, financia
 
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
+UKRI, July 9 2026, [Explainer: STFC prioritisation outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/): seek alternative funding arrangements or operating models for Lasers for Science Facility and the muon beamlines at ISIS, and if that is not possible close these capabilities
+
 The world-leading Lasers for Science Facility (LSF) is under threat of closure if it cannot switch to an alternative model for funding within 2 years. The three constituent facilities of the LSF are Octopus, Ultra, and Artemis, co-located in the Research Complex at Harwell building on the STFC Rutherford Appleton Laboratory campus. The ongoing £17.2M HiLUX project is implementing upgrades to Ultra and Artemis to provide state-of-the-art new facilities that are unmatched globally, but it will also be terminated if the LSF closes. 
 
 (source: [open letter](https://lsf-open-letter.co.uk/))
@@ -94,6 +94,10 @@ The world-leading Lasers for Science Facility (LSF) is under threat of closure i
 **Impact of funding cuts**
 Explainer needed, with sources.
 
+from [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_) (UKRI, 9 July 2026): "reduce spending on accelerator and technology support by £8 million each year by 2029, this includes mothballing the CLARA facility"
+
+from [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_) (UKRI, 9 July 2026): "challenge RAL Space and Hartree to become cost neutral to STFC, including through increasing commercial activity and funding from other sources"
+
 CLARA has been "mothballed" (sic!), even though it only this year geared up to user facility.
 </div>
 
@@ -109,6 +113,8 @@ Short explainer needed.
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
 Explainer, with sources.
+
+from [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_) (UKRI, 9 July 2026): "reduce the operational budget by 40% at Boulby Underground Mine"
 </div>
 
 
@@ -124,6 +130,8 @@ Explainer, with sources.
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
 Explainer, with sources.
+
+from [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_) (UKRI, 9 July 2026): "challenge RAL Space and Hartree to become cost neutral to STFC, including through increasing commercial activity and funding from other sources"
 </div>
 
 
@@ -139,4 +147,6 @@ Explainer needed.
 <div class="notice--danger" markdown="1">  
 **Impact of funding cuts**
 Explainer, with sources.
+
+from [Explainer: STFC Prioritisation Outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/_) (UKRI, 9 July 2026): "reduce spending on compute by £10 million each year, reducing access to compute capability"
 </div>
