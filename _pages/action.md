@@ -7,8 +7,6 @@ sidebar:
 ---
 
 
-# Community Action
-
 How to take part?
 
 we need data, and testimonials, and discussions with stakeholders across politics, society, and research.
