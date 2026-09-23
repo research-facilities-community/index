@@ -2,14 +2,10 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "STFC Facilities in the Media"
-    url: #
-  - title: "Parliament Discussions"
-    url: #
-  - title: "Links to STFC Resources"
-    url: #
+  - title: "Collection"
+    url: /_pages/collection.md
   - title: "Community Action"
-    url: #
+    url:  /_pages/action.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
