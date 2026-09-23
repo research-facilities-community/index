@@ -1,7 +1,7 @@
 ---  
-title: Community Action  
+title: "Community Action" 
 layout: single  
-permalink: /_pages/action  
+permalink: /action/
 sidebar:  
   nav: "main"  
 ---
