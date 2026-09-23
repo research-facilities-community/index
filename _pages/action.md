@@ -38,6 +38,25 @@ Regarding the **Central Laser Facility**: [https://lsf-open-letter.co.uk/letter/
 For **Early Career Researchers** affected by cuts: [https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
 
 
+### Freedom of Information Requests {#FOI}
+
+**ongoing** vs **closed**
+
+
+[UKRI - Freedom of Information Requests](https://www.ukri.org/who-we-are/contact-us/freedom-of-information-request/)
+
+[UKRI - published disclosures of Freedom of Information Requests](https://ukri.disclosurelog.co.uk/) - keyword "STFC", year 2026:
+1. [FOI2026/00486: STFC Science Board Prioritisation Exercise Report](https://ukri.disclosurelog.co.uk/disclosures/60c703f4-4f24-4a4d-a54b-5c8cc4570b71?preserveHistory) - Received 5 June 2026, Response Sent: 13 August 2026, Published 22 September 2026 - exemptions section 36 (prejudice to effective conduct of public affairs), section 43 (commercial interests)
+2. [FOI2026/00584: Energy and International Subscription Costs for STFC from 2023-26](https://ukri.disclosurelog.co.uk/disclosures/d5742767-5b23-4cf5-a646-c10eba000ee1?preserveHistory) - Received 13 July 2026, Response Sent: 11 August 2026, Published 21 September 2026 - contains data
+3. [FOI2026/00102: STFC budget and UKRI restructure](https://ukri.disclosurelog.co.uk/disclosures/3110db5d-6e86-4f3a-a41f-c6ee8e14ea22?preserveHistory) - Received 10 February 2026, Response sent: 17 July 2026, Published 14 September 2026 - Some or all of the information requested was not provided because we determined that the cost to do so would exceed the appropriate limit.
+4. [FOI2026/00432: UKRI Core Values](https://ukri.disclosurelog.co.uk/disclosures/fc024b76-3e32-46e8-8ca0-5207245499a9?preserveHistory) - Received 19 May 2026, Response Sent: 17 June 2026, Published 27 July 2026 - "The total recorded financial expenditure allocated to the development, production, and implementation of these core values. - The total recorded inancial expenditure for development, production and implementation was £12,510 (excl. VAT)."
+5. [FOI2026/00323: STFC Budgets (FY23/24-26/27)](https://ukri.disclosurelog.co.uk/disclosures/83bcb098-0d30-4568-b8a0-dd70e6a4e0a0?preserveHistory) - Received 14 April 2026, Response sent: 18 May 2026, Published 14 July 2026 - 
+	- The FY 26/27 budget setting process is still in progress. High-level departmental budgets have been finalised at resource and capital level, and this information has been provided at **Annex 1**. The breakdown requested for resource, for staff and non-staff, is not yet available, the budget setting process is _expected to conclude in late mid-June_.
+	- Internal management accounting headings for STFC have changed over time as new departments have been set up, for example National Quantum Computing Centre (NQCC), and the Skills Centre.
+
+
+
+
 
 ## Testimonials {#testimonials}
 
