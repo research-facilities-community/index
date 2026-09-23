@@ -39,8 +39,6 @@ main:
         url: /action/#MPletters
       - title: "Community Letters"
         url: /action/#community_letters
-      - title: "Testimonials"
-        url: /action/#testimonials
       - title: "Surveys"
         url: /action/#surveys
       - title: "Townhalls"
