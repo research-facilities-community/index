@@ -1,7 +1,7 @@
 main:
   - title: "Collection"
-    url: /collection/
-    children:
+  url: /collection/
+  children:
       - title: "Media Coverage"
         url: /collection/#media
       - title: "Official Communications"
@@ -14,36 +14,37 @@ main:
   - title: "Community Action"
     url: /action/
     children:
-      - title: "Letters to MPs"
-        url: /action/#mpletters
-      - title: "Community Letters"
-        url: /action/#communityletters
-      - title: "Testimonials"
-        url: /action/#testimonials
-      - title: "Surveys"
-        url: /action/#surveys
-      - title: "Community Townhalls"
-        url: /action/#towhalls
+		- title: "Letters to MPs"
+		url: /action/#mpletters
+		- title: "Community Letters"
+		url: /action/#communityletters
+		- title: "Freedom of Information Requests"
+		url: /action/#FOI
+		- title: "Testimonials"
+		url: /action/#testimonials
+		- title: "Surveys"
+		url: /action/#surveys
+		- title: "Community Townhalls"
+		url: /action/#towhalls
         
     - title: "Facilities"
     url: /facilities/
     children:
-    	# National multi-disciplinary facilities
-      - title: "ISIS Neutron and Muon Source"
-        url: /action/#ISIS
-      - title: "Diamond Light Source"
-        url: /action/#Diamond
-      - title: "Central Laser Facility"
-        url: /action/#CLF
-        # National Labs
-      - title: "Daresbury Laboratories"
-        url: /action/#Daresbury
-      - title: "Boulby Underground Mine"
-        url: /action/#Boulby
-      - title: "RAL Space Facilities"
-        url: /action/#RALSpace
-      - title: "Hartree Centre"
-        url: /action/#Hartree
-      - title: "DIRAC HPC"
-        url: /action/#HPC
 
+		- title: "ISIS Neutron and Muon Source"
+		url: /action/#ISIS
+		- title: "Diamond Light Source"
+		url: /action/#Diamond
+		- title: "Central Laser Facility"
+		url: /action/#CLF
+
+		- title: "Daresbury Laboratories"
+		url: /action/#Daresbury
+		- title: "Boulby Underground Mine"
+		url: /action/#Boulby
+		- title: "RAL Space Facilities"
+		url: /action/#RALSpace
+		- title: "Hartree Centre"
+		url: /action/#Hartree
+		- title: "DIRAC HPC"
+		url: /action/#HPC
