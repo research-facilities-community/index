@@ -2,41 +2,41 @@
 main:
 
   - title: "Collection"
-    url: /content/collection.md
+    url: /content/collection
 
   children:
   
    - title: Media
-     url: /content/collection.md/#media
+     url: /content/collection/#media
 
   - title: Official Comms
-    url: /content/collection.md/#official
+    url: /content/collection/#official
 
   - title: Testimonials
-    url: /content/collection.md/#testimonials
+    url: /content/collection/#testimonials
 
   - title: Further Links
-    url: /content/collection.md/#furhter_links
+    url: /content/collection/#further_links
 
 
 
   
   - title: "Community Action"
-    url:  /_pages/action.md
+    url:  /_pages/action
 
 
  children:
 
   - title: MP Letters
-    url:  /_pages/action.md/#MPletters
+    url:  /_pages/action/#MPletters
 
   - title: Community Letters
-     url: /_pages/action.md/#community_letters
+     url: /_pages/action/#community_letters
 
   - title: Surveys
-     url: /_pages/action.md/#surveys
+     url: /_pages/action/#surveys
 
   - title: Townhalls
-    url:  /_pages/action.md/#townhalls
+    url:  /_pages/action/#townhalls
 
 
