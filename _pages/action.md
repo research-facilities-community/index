@@ -1,92 +1,87 @@
----
-title: "Community Action" 
-layout: single  
-permalink: /action/
-sidebar:  
-  nav: "main"  
----
+## What Can You Do to Help?
+
+The future of UK research facilities, infrastructure and capability will not be determined by funding decisions alone. It will also be shaped by how clearly researchers, technicians, facility staff, students, industry partners, learned societies, policymakers and the wider public understand what is at stake. Much of the public discussion to date has understandably been framed through official announcements and press releases. To ensure that decisions are informed by a fuller picture, we need evidence, data, experiences and perspectives from across the research community and the sectors that depend on it.
+
+There are many ways to contribute. Some are highly visible, such as writing articles, engaging with policymakers, participating in campaigns and speaking publicly about the value of research facilities. Others take place behind the scenes through conversations with university leaders, industry partners, parliamentarians, journalists and other stakeholders. These quieter forms of engagement can often be highly effective. If you have useful contacts and would benefit from supporting evidence, data or case studies, we would be pleased to help.
+
+We are building a broad evidence base to help inform discussions about the consequences of reduced facility access, capability and staffing. We are particularly interested in data, testimonials, examples of societal and economic impact, and perspectives from across research, industry, healthcare, heritage, energy, defence, environmental science and other sectors that rely on STFC-supported infrastructure. A community Discord forum is available to support discussion and coordination. Please get in touch if you would like an invitation. Activities, campaigns and opportunities to contribute are listed below. 
 
 
-How to take part?
+## Community Coordination
 
-we need data, and testimonials, and discussions with stakeholders across politics, society, and research.
+We are grateful to everyone who is willing to advocate for and support the research facility community. Community responses and information-sharing activities are currently being supported by a number of volunteers, including:
+- **Andrew McCluskey** (particularly neutron science and facilities)
+- **Naëmi Leo** (website coordination and evidence gathering)
+and many others across universities, research facilities, learned societies, industry and the wider research community.
 
+Please get in touch if you have suggestions, would like advice, wish to contribute evidence or testimonials, or would like us to highlight articles, campaigns or initiatives that are not yet listed on this website. Together, we can help ensure that discussions about the future of UK research facilities are informed by the experiences, evidence and expertise of the communities they serve.
 
+If you are unsure whether a piece of evidence, experience or connection would be useful, please contact us anyway. What appears small or local can often make a substantial difference when combined with other evidence.
 
+{: .notice-warning}  
+is everyone okay to have their name listed here, and are there other volunteers as well?
 
 
 ## Letters to MPs {#MPletters}
 
-give a template
+[Find Your MPs Contact Details](https://www.theyworkforyou.com)
 
-and tips
-you can only send to your local MP (addresss), and ideally use your 
+A template for a letter regarding the STFC funding cuts to national research facilities can be found [here](https://stfc-open-letter.co.uk/email). 
 
-you might want to double-check with your policy department as well (if in doubt use your private email address)
+**Notes**
+- Please sign the email or letter with your name and address. MPs will normally only act on correspondence from their own constituents, so if you are the sole signatory, the request is most likely to be taken up by MPs representing your constituency.
+- You can also act as a co-signatory on letters submitted by constituents in other constituencies. This can help demonstrate the breadth of disciplines, institutions and regions affected by the proposed funding cuts.
+- If you are employed by a university, research organisation or other stakeholder institution, consider contacting your Dean of Research, Pro-Vice-Chancellor for Research, Public Affairs team, or equivalent institutional leadership. They may be able to provide input, support wider engagement efforts, and ensure that concerns are communicated through institutional channels.
+- If in doubt, consider using your personal email address when corresponding with your MP, as parliamentary offices generally prioritise communications from individual constituents.
+- If you would like supporting evidence, impact case studies, testimonials or background information to help inform discussions with MPs or other stakeholders, please get in touch. We may be able to connect you with relevant examples from across the research community.
 
->template...
 
 
 ## Community Letters {#community_letters}
 
-The letter regarding **ISIS (with focus on multidisciplinary facilities**, [https://stfc-open-letter.co.uk/mdf-outcomes.html](https://stfc-open-letter.co.uk/mdf-outcomes.html "https://stfc-open-letter.co.uk/mdf-outcomes.html")) has already been sent to UKRI and STFC leadership, DSIT, and Dame Chi Onwurah MP, Chair of the Science, Innovation and Technology Committee. 
+Regarding **ISIS (with focus on multidisciplinary facilities**, [https://stfc-open-letter.co.uk/mdf-outcomes.html](https://stfc-open-letter.co.uk/mdf-outcomes.html "https://stfc-open-letter.co.uk/mdf-outcomes.html")), sent on April 2, 2026 to UKRI and STFC leadership, DSIT, and Dame Chi Onwurah MP, Chair of the Science, Innovation and Technology Committee. 
+- [response letter](https://stfc-open-letter.co.uk/response.pdf) by UKRI from April 13, 2026
 
-By the **Diamond User Committee**: [https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e](https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e "https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e") 
+Letter by the **Diamond User Committee**:
+[https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e](https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e "https://openletter.earth/open-letter-in-response-to-funding-pressures-affecting-diamond-light-source-ee231c6e") 
 
-Regarding the **Central Laser Facility**: [https://lsf-open-letter.co.uk/letter/](https://lsf-open-letter.co.uk/letter/ "https://lsf-open-letter.co.uk/letter/") 
+Letter regarding funding cuts to the **Central Laser Facility**:
+[https://lsf-open-letter.co.uk/letter/](https://lsf-open-letter.co.uk/letter/ "https://lsf-open-letter.co.uk/letter/") 
 
-For **Early Career Researchers** affected by cuts: [https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
+For **Early Career Researchers** affected by STFC cuts to Facilities and National Laboratories :
+[https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
 
-
-## Freedom of Information Requests {#FOI}
-
-**ongoing** vs **closed**
-
-
-[UKRI - Freedom of Information Requests](https://www.ukri.org/who-we-are/contact-us/freedom-of-information-request/)
-
-[UKRI - published disclosures of Freedom of Information Requests](https://ukri.disclosurelog.co.uk/) - keyword "STFC", year 2026:
-1. [FOI2026/00486: STFC Science Board Prioritisation Exercise Report](https://ukri.disclosurelog.co.uk/disclosures/60c703f4-4f24-4a4d-a54b-5c8cc4570b71?preserveHistory) - Received 5 June 2026, Response Sent: 13 August 2026, Published 22 September 2026 - exemptions section 36 (prejudice to effective conduct of public affairs), section 43 (commercial interests)
-2. [FOI2026/00584: Energy and International Subscription Costs for STFC from 2023-26](https://ukri.disclosurelog.co.uk/disclosures/d5742767-5b23-4cf5-a646-c10eba000ee1?preserveHistory) - Received 13 July 2026, Response Sent: 11 August 2026, Published 21 September 2026 - contains data
-3. [FOI2026/00102: STFC budget and UKRI restructure](https://ukri.disclosurelog.co.uk/disclosures/3110db5d-6e86-4f3a-a41f-c6ee8e14ea22?preserveHistory) - Received 10 February 2026, Response sent: 17 July 2026, Published 14 September 2026 - Some or all of the information requested was not provided because we determined that the cost to do so would exceed the appropriate limit.
-4. [FOI2026/00432: UKRI Core Values](https://ukri.disclosurelog.co.uk/disclosures/fc024b76-3e32-46e8-8ca0-5207245499a9?preserveHistory) - Received 19 May 2026, Response Sent: 17 June 2026, Published 27 July 2026 - "The total recorded financial expenditure allocated to the development, production, and implementation of these core values. - The total recorded inancial expenditure for development, production and implementation was £12,510 (excl. VAT)."
-5. [FOI2026/00323: STFC Budgets (FY23/24-26/27)](https://ukri.disclosurelog.co.uk/disclosures/83bcb098-0d30-4568-b8a0-dd70e6a4e0a0?preserveHistory) - Received 14 April 2026, Response sent: 18 May 2026, Published 14 July 2026 - 
-	- The FY 26/27 budget setting process is still in progress. High-level departmental budgets have been finalised at resource and capital level, and this information has been provided at **Annex 1**. The breakdown requested for resource, for staff and non-staff, is not yet available, the budget setting process is _expected to conclude in late mid-June_.
-	- Internal management accounting headings for STFC have changed over time as new departments have been set up, for example National Quantum Computing Centre (NQCC), and the Skills Centre.
-
-
+{: .notice-warning}  
+Add follow-up communications, where open letters have been replied to.
 
 
 
 ## Testimonials {#testimonials}
 
-see collection in media - if you think this - 
+Please contact Naëmi Leo ([n.leo@lboro.ac.uk](mailto:n.leo@lboro.ac.uk)) to share testimonials, blog posts, LinkedIn articles, or other contributions that highlight the breadth of research enabled by STFC facilities and resources, their societal and economic impact, and the potential consequences of funding cuts for research programmes, skills development, innovation, and the UK's international competitiveness. Comments on published media articles that provide additional context, perspectives, or evidence relevant to these discussions are also welcome.
 
-showcasing diverse reserach topics with societal relevance, which are hit by the cuts
-
-
+Community testimonials are linked on the [testimonials section of the Collection page](/collection/#testimonials).
 
 
 ## Surveys {#surveys}
 
 ### National Surveys
 
-questionnaires to assess impact of proposed cuts to multidisciplinary facilities
-- [Impact of STFC Facility Funding Reductions on Early-Career Researchers](https://forms.cloud.microsoft/e/Mw6xUEYYCH)
-- [Impact of STFC Facility Funding Reductions on UK Research, Innovation and Skills](https://forms.cloud.microsoft/e/K08NutfQ4c)
+[Impact of STFC Facility Funding Reductions on Early-Career Researchers](https://forms.cloud.microsoft/e/Mw6xUEYYCH) - This survey aims to understand how proposed or anticipated reductions in funding for UK multidisciplinary national research facilities may affect _early-career researchers (ECRs)_, including PhD students or postdoctoral researchers, who usually are employed _on short-term contracts_.
 
+
+[Impact of STFC Facility Funding Reductions on UK Research, Innovation and Skills](https://forms.cloud.microsoft/e/K08NutfQ4c) - This survey gathers evidence from _principal investigators, group leaders and senior researchers_ on how actual or anticipated funding reductions at UK national multidisciplinary scientific facilities could affect research capability, access and training. It aims to assess the mid- to long-term implications for UK scientific competitiveness, international leadership, innovation, skills development and regional research ecosystems.
+
+
+{: .notice-warning}  
 not sure if it is good to post these links on public webpages?
-
-related:
-- [ECR survey post-prioritisation — UK PPAN](https://forms.cloud.microsoft/pages/responsepage.aspx?id=FM9wg_MWFky4PHJAcWVDVl8TpokLPZRLprCb_xP7DO9UMkwwNFpXWVZYQlMySDBROVExMjVCQVcxSy4u&route=shorturl)
-
 
 
 ### Internal Surveys
- 
-query widely between schools - you might be surprised whom you find is also using the multi-disciplinary facilities for their research or innovation.
 
-To access impact on academic institutions, here are a set of questions that could be queried internally (e.g., asking about activities in the last five years) - Dissemination to Dean of School,  Associated Dean of Reserach and Innovation, University Leadership and Policy 
+**Ask widely across your institution.** Universities may underestimate how widely STFC-supported facilities, specialist infrastructure, technical expertise, and collaborative networks contribute to research, innovation, skills development, industry engagement, and teaching. Researchers in engineering, materials science, chemistry, healthcare technologies, environmental sciences, archaeology, cultural heritage, manufacturing, energy, data science, and many other disciplines may rely directly or indirectly on these capabilities.
+
+A suggested set of survey questions is provided below and can be adapted to local institutional needs. Broad participation is important, as many impacts may arise in areas not traditionally associated with STFC-funded research or facilities. The evidence gathered can inform discussions at School, Faculty, University, and policy levels on the longer-term implications for research capability and innovation capacity.
 
 **Research and Research Excellence**
 1. What impact has of access to STFC facilities on your research? - single choice: important / useful / limited
@@ -109,8 +104,13 @@ To access impact on academic institutions, here are a set of questions that coul
 
 
 **User Community Webinar: The funding situation for the ISIS Neutron and Muon Source** Thursday 24 September 2026, 10:00 – 11:00 (BST), online
-> Following STFC’s announcement of its prioritisation outcomes, we know that many members of our user community have questions and concerns about what the decisions mean for ISIS and its user programme. We invite you to join ISIS Director Sarah Rogers for a live Q&A on the implications of STFC’s financial situation for ISIS. The session will give you the opportunity to ask questions and raise concerns directly. Sarah will be joined on the panel by ISIS colleagues and Kathi Edkins (University of Strathclyde), Chair of STFC’s Multidisciplinary Facility User Advisory Panel, and Lucy Clark (University of Birmingham), Chair of the IoP/RSC Neutron Scattering Group. [Add the webinar to your calendar and access the joining link](https://events.teams.microsoft.com/event/3d61082a-cc8d-455f-bb78-73df522ad90a%403f66361c-a87e-4158-8f61-99e82db3cac8?source=email "Add the webinar to your calendar and access the joining link
-> (https://events.teams.microsoft.com/event/3d61082a-cc8d-455f-bb78-73df522ad90a%403f66361c-a87e-4158-8f61-99e82db3cac8?source=email)") Kind regards, ISIS Neutron and Muon Source
+> Following STFC’s announcement of its prioritisation outcomes, we know that many members of our user community have questions and concerns about what the decisions mean for ISIS and its user programme. 
+> 
+> We invite you to join ISIS Director Sarah Rogers for a live Q&A on the implications of STFC’s financial situation for ISIS. The session will give you the opportunity to ask questions and raise concerns directly.
+> 
+> Sarah will be joined on the panel by ISIS colleagues and Kathi Edkins (University of Strathclyde), Chair of STFC’s Multidisciplinary Facility User Advisory Panel, and Lucy Clark (University of Birmingham), Chair of the IoP/RSC Neutron Scattering Group.
 
+{: .notice-warning}  
+include or not?
 
 
