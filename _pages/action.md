@@ -1,3 +1,12 @@
+---  
+title: Community Action  
+layout: single  
+permalink: /_pages/action.md  
+sidebar:  
+  nav: "main"  
+---
+
+
 # Community Action
 
 How to take part?
