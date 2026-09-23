@@ -34,9 +34,9 @@ main:
     url: /action/
     children:
       - title: "Letters to MPs"
-        url: /action/#mpletters
+        url: /action/#MPletters
       - title: "Community Letters"
-        url: /action/#communityletters
+        url: /action/#community_letters
       - title: "FOI Requests"
         url: /action/#FOI
       - title: "Testimonials"
