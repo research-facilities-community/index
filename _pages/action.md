@@ -1,7 +1,7 @@
 ---  
 title: Community Action  
 layout: single  
-permalink: /_pages/action.md  
+permalink: /_pages/action  
 sidebar:  
   nav: "main"  
 ---
