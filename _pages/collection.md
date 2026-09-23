@@ -22,29 +22,28 @@ update for completeness, add sources - e.g. for discussions and communications i
 
 ### September 2026
 
-- (PPAN) Lords Chamber, Vol 859, September 10, 2026: [Jodrell Bank Observatory: Funding](https://hansard.parliament.uk/Lords/2026-09-10/debates/0A46F61B-5A06-4A2B-8BC9-DB86055DEBC9/JodrellBankObservatoryFunding)
-- Westminster Hall with discussions regarding STFC cuts Tuesday 1 September 2026 Meeting started at 11.29am, ended 1.35pm [https://parliamentlive.tv/event/index/959132da-f732-426b-b993-99d58c9140cc](https://parliamentlive.tv/event/index/959132da-f732-426b-b993-99d58c9140cc)
-	- Hansard - Commons Westminster Hall - [Science Facilities and Laboratories](https://hansard.parliament.uk/Commons/2026-09-01/debates/A9E5DE0F-92F9-453C-A25B-01CAA4346D1F/ScienceFacilitiesAndLaboratories) - Volume 790: debated on Tuesday 1 September 2026
-	- commentary on Bluesky by Catherine Heymans: [https://bsky.app/profile/astroroyalscot.bsky.social/post/3mugz2jidok2j](https://bsky.app/profile/astroroyalscot.bsky.social/post/3mugz2jidok2j "https://bsky.app/profile/astroroyalscot.bsky.social/post/3mugz2jidok2j")
+- (PPAN) Lords Chamber, Vol 859, September 10 2026: [Jodrell Bank Observatory: Funding](https://hansard.parliament.uk/Lords/2026-09-10/debates/0A46F61B-5A06-4A2B-8BC9-DB86055DEBC9/JodrellBankObservatoryFunding)
+- September 1 2026, Westminster Hall, Vol 790, Science Facilities and Laboratories -[recording](https://parliamentlive.tv/event/index/959132da-f732-426b-b993-99d58c9140cc) - [transcript](https://hansard.parliament.uk/Commons/2026-09-01/debates/A9E5DE0F-92F9-453C-A25B-01CAA4346D1F/ScienceFacilitiesAndLaboratories)
+	- commentary on Bluesky by Catherine Heymans: [https://bsky.app/profile/astroroyalscot.bsky.social/post/3mugz2jidok2j](https://bsky.app/profile/astroroyalscot.bsky.social/post/3mugz2jidok2j)
 
 ### August 2026
 
-- [LinkedIn post](https://www.linkedin.com/posts/jonathan-reynolds-mp_when-i-was-asked-to-lead-the-new-department-activity-7498781474456793089-AFVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFT_TEgBHOnJdUwq_E8K7TEvwrzZ5_d7xDY) by Jonathan Reynolds, Secretary of State for Business, Innovation, Science and Trade August 28
-- Science, Innovation and Technology Committee, August 4, 2026 News article: [What are government's plans for science, innovation and tech policy? Commitee seeks explanation](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/217379/what-are-governments-plans-for-science-innovation-and-tech-policy-committee-seeks-explanation/)
+- August 28 2026, [LinkedIn post](https://www.linkedin.com/posts/jonathan-reynolds-mp_when-i-was-asked-to-lead-the-new-department-activity-7498781474456793089-AFVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFT_TEgBHOnJdUwq_E8K7TEvwrzZ5_d7xDY) by Jonathan Reynolds, Secretary of State for Business, Innovation, Science and Trade
+- August 4 2026, Science, Innovation and Technology Committee, News article: [What are government's plans for science, innovation and tech policy? Commitee seeks explanation](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/217379/what-are-governments-plans-for-science-innovation-and-tech-policy-committee-seeks-explanation/)
 
 ### July 2026
 
-- from UKRI, July 28, 2026: [STFC details outcomes for future physics projects](https://www.ukri.org/news/stfc-details-outcomes-for-future-physics-projects)
+- July 28 2026, UKRI: [STFC details outcomes for future physics projects](https://www.ukri.org/news/stfc-details-outcomes-for-future-physics-projects)
 
--  Science and Technology Committee in the House of Lords, July 14, 2026, with Sir Ian Chapman, CEO of UKRI - [recording online](https://parliamentlive.tv/event/index/1fc2a155-cdb5-4a76-af70-36649a8d0455) - [transcript](https://committees.parliament.uk/oralevidence/17976/html/)
+- July 14 2026, Science and Technology Committee in the House of Lords, with Sir Ian Chapman, CEO of UKRI - [recording online](https://parliamentlive.tv/event/index/1fc2a155-cdb5-4a76-af70-36649a8d0455) - [transcript](https://committees.parliament.uk/oralevidence/17976/html/)
 
-- UKRI, July 9 2026, [Explainer: STFC prioritisation outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/). 
+- July 9 2026, UKRI, [Explainer: STFC prioritisation outcomes 2026 to 2030](https://www.ukri.org/publications/explainer-stfc-prioritisation-outcomes/explainer-stfc-prioritisation-outcomes-2026-to-2030/). 
 
-- STFC Prioritisation Virtual Townhall, July 9, 2026, 16:00-17:00, notifying the wider facility user community about the the STFC funding cuts to UK research infrastructure. Invitations to event were sent out on extremely short notice on the same day at 13:13. STFC do not intent to publish a recording of the session.
+- July 9 2026, STFC Prioritisation Virtual Townhall, 16:00-17:00, notifying the wider facility user community about the the STFC funding cuts to UK research infrastructure. Invitations to event were sent out on extremely short notice on the same day at 13:13. STFC do not intent to publish a recording of the session.
 
 ### before July 2026
 
-- UKRI Corporate Report, December 17, 2025: [Budget allocations for UK Research and Innovation](https://www.ukri.org/publications/explainer-ukri-budget-allocations/budget-allocations-for-uk-research-and-innovation/), 
+- December 17 2025, UKRI Corporate Report: [Budget allocations for UK Research and Innovation](https://www.ukri.org/publications/explainer-ukri-budget-allocations/budget-allocations-for-uk-research-and-innovation/), 
 
 
 ## Media Coverage {#media}
@@ -87,7 +86,7 @@ Relevant links:
 - [UKRI - Freedom of Information Requests](https://www.ukri.org/who-we-are/contact-us/freedom-of-information-request/) - General Information
 - [UKRI - published disclosures of Freedom of Information Requests](https://ukri.disclosurelog.co.uk/) 
 
-### open Freedom of Information requests
+### pending Freedom of Information requests
 
 - [STFC Science Board & Council meetings](https://www.whatdotheyknow.com/request/stfc_science_board_council_meeti#outgoing-2125031), submitted on 6 August 2026. A response is currently overdue and is expected by 2 October 2026. STFC has indicated that it is considering the application of Section 36 (prejudice to the effective conduct of public affairs) and Section 43 (commercial interests) exemptions.
 
