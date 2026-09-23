@@ -4,6 +4,7 @@ Github-hosted webpage to collect information, evidence, and community response t
 
 Main files: 
 ```
+/index.md # landing page
 /_data/navigation.yml # Navigation
 /_pages/facilities.md # overview of facilities and impact of cuts
 /_pages/collection.md # media coverage, parliamentary discussions, etc
