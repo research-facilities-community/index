@@ -38,7 +38,7 @@ Regarding the **Central Laser Facility**: [https://lsf-open-letter.co.uk/letter/
 For **Early Career Researchers** affected by cuts: [https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
 
 
-### Freedom of Information Requests {#FOI}
+## Freedom of Information Requests {#FOI}
 
 **ongoing** vs **closed**
 
