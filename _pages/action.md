@@ -1,3 +1,12 @@
+---
+title: "Community Action" 
+layout: single  
+permalink: /action/
+sidebar:  
+  nav: "main"  
+---
+
+
 ## What Can You Do to Help?
 
 The future of UK research facilities, infrastructure and capability will not be determined by funding decisions alone. It will also be shaped by how clearly researchers, technicians, facility staff, students, industry partners, learned societies, policymakers and the wider public understand what is at stake. Much of the public discussion to date has understandably been framed through official announcements and press releases. To ensure that decisions are informed by a fuller picture, we need evidence, data, experiences and perspectives from across the research community and the sectors that depend on it.
