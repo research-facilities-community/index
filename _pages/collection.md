@@ -69,11 +69,11 @@ This section brings together letters, STFC communications, parliamentary discuss
 
 - The Guardian, July 31 2026, Opinion: [The Guardian view on the Lovell telescope: budget cuts to physics are bad science and worse politics](https://www.theguardian.com/commentisfree/2026/jul/31/the-guardian-view-on-the-lovell-telescope-cuts-physics-bad-science-politics)
 - (PPAN) Research Professional News, July 31 2026: [Jodrell Bank cuts test Burnham’s regional ambitions](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-7-jodrell-bank-cuts-first-test-to-burnham-s-regional-ambitions/ )
-- (PPAN) Letters to The Guardian, Friday July 31, 2026: [Don’t let Jodrell Bank Observatory become another industrial museum](https://www.theguardian.com/science/2026/jul/31/dont-let-jodrell-bank-observatory-become-another-industrial-museum)
+- (PPAN) Letters to The Guardian, July 31 2026: [Don’t let Jodrell Bank Observatory become another industrial museum](https://www.theguardian.com/science/2026/jul/31/dont-let-jodrell-bank-observatory-become-another-industrial-museum)
 
 - Institute of Physics (IOP), July 30 2026: [Future of UK physics threatened by 'ruinous' funding cuts, says Institute of Physics – Physics World](https://physicsworld.com/a/future-of-uk-physics-threatened-by-ruinous-funding-cuts-says-institute-of-physics/) 
-- Nature News Explainer, July 27 2026: [The existential choice facing UK physics facilities: commercialize or close](https://www.nature.com/articles/d41586-026-02171-7)
-- (PPAN) The Guardian, July 27, 2026: [Jodrell Bank Observatory facing closure after major funder cuts support](https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk )
+- Nature, July 27 2026: [The existential choice facing UK physics facilities: commercialize or close](https://www.nature.com/articles/d41586-026-02171-7)
+- (PPAN) The Guardian, July 27 2026: [Jodrell Bank Observatory facing closure after major funder cuts support](https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk )
 
 
 - Times Higher Education, July 8 2026 (behind paywall): [Onwurah: ‘doctoring’ of STFC minutes raises governance concerns](https://www.timeshighereducation.com/news/onwurah-doctoring-stfc-minutes-raises-governance-concerns)
