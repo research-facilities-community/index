@@ -84,9 +84,6 @@ Community testimonials are linked on the [testimonials section of the Collection
 [Impact of STFC Facility Funding Reductions on UK Research, Innovation and Skills](https://forms.cloud.microsoft/e/K08NutfQ4c) - This survey gathers evidence from _principal investigators, group leaders and senior researchers_ on how actual or anticipated funding reductions at UK national multidisciplinary scientific facilities could affect research capability, access and training. It aims to assess the mid- to long-term implications for UK scientific competitiveness, international leadership, innovation, skills development and regional research ecosystems.
 
 
-{: .notice--warning} 
-not sure if it is good to post these links on public webpages?
-
 
 ### Internal Surveys
 
@@ -120,8 +117,5 @@ A suggested set of survey questions is provided below and can be adapted to loca
 > We invite you to join ISIS Director Sarah Rogers for a live Q&A on the implications of STFC’s financial situation for ISIS. The session will give you the opportunity to ask questions and raise concerns directly.
 > 
 > Sarah will be joined on the panel by ISIS colleagues and Kathi Edkins (University of Strathclyde), Chair of STFC’s Multidisciplinary Facility User Advisory Panel, and Lucy Clark (University of Birmingham), Chair of the IoP/RSC Neutron Scattering Group.
-
-{: .notice--warning} 
-include with full description, without description or not at all?
 
 
