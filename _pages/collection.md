@@ -105,4 +105,4 @@ Relevant links:
 ## Further Links {#further_links}
 
 {: .notice--warning}
-Placeholder for so-far unclassified items, or other relevant information
+Placeholder for so-far unclassified items, or other relevant information - remove if not needed!
