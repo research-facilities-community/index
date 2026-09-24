@@ -27,7 +27,7 @@ Please get in touch if you have suggestions, would like advice, wish to contribu
 
 If you are unsure whether a piece of evidence, experience or connection would be useful, please contact us anyway. What appears small or local can often make a substantial difference when combined with other evidence.
 
-{: .notice-warning}
+{: .notice--warning} 
 is everyone okay to have their name listed here, and are there other volunteers as well?
 
 
@@ -60,7 +60,7 @@ Letter regarding funding cuts to the **Central Laser Facility**:
 For **Early Career Researchers** affected by STFC cuts to Facilities and National Laboratories :
 [https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
 
-{: .notice-warning}
+{: .notice--warning} 
 Add follow-up communications, where open letters have been replied to.
 
 
@@ -84,7 +84,7 @@ Community testimonials are linked on the [testimonials section of the Collection
 [Impact of STFC Facility Funding Reductions on UK Research, Innovation and Skills](https://forms.cloud.microsoft/e/K08NutfQ4c) - This survey gathers evidence from _principal investigators, group leaders and senior researchers_ on how actual or anticipated funding reductions at UK national multidisciplinary scientific facilities could affect research capability, access and training. It aims to assess the mid- to long-term implications for UK scientific competitiveness, international leadership, innovation, skills development and regional research ecosystems.
 
 
-{: .notice-warning}
+{: .notice--warning} 
 not sure if it is good to post these links on public webpages?
 
 
@@ -121,7 +121,7 @@ A suggested set of survey questions is provided below and can be adapted to loca
 > 
 > Sarah will be joined on the panel by ISIS colleagues and Kathi Edkins (University of Strathclyde), Chair of STFC’s Multidisciplinary Facility User Advisory Panel, and Lucy Clark (University of Birmingham), Chair of the IoP/RSC Neutron Scattering Group.
 
-{: .notice-warning}
+{: .notice--warning} 
 include with full description, without description or not at all?
 
 
