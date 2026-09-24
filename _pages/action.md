@@ -71,6 +71,8 @@ Please contact Naëmi Leo ([n.leo@lboro.ac.uk](mailto:n.leo@lboro.ac.uk)) to sha
 
 Community testimonials are linked on the [testimonials section of the Collection page](/collection/#testimonials).
 
+{{ "/collection/#testimonials" | testimonials section of the Collection page }}
+
 
 ## Surveys {#surveys}
 
