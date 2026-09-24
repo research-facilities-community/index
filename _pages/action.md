@@ -67,11 +67,9 @@ For **Early Career Researchers** affected by STFC cuts to Facilities and Nationa
 
 Please contact Naëmi Leo ([n.leo@lboro.ac.uk](mailto:n.leo@lboro.ac.uk)) to share testimonials, blog posts, LinkedIn articles, or other contributions that highlight the breadth of research enabled by STFC facilities and resources, their societal and economic impact, and the potential consequences of funding cuts for research programmes, skills development, innovation, and the UK's international competitiveness. Comments on published media articles that provide additional context, perspectives, or evidence relevant to these discussions are also welcome.
 
-Community testimonials are linked on the [testimonials section of the Collection page](/collection/#testimonials).
+Community testimonials are linked on the [testimonials section of the Collection page](../collection/#testimonials).
 
-{% link _pages/collection.md %}#testimonials
 
-{{ "/collection/#testimonials" | testimonials section of the Collection page }}
 
 
 ## Surveys {#surveys}
