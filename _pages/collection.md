@@ -17,8 +17,7 @@ This section brings together letters, STFC communications, parliamentary discuss
 
 **NOTE:** All the correspondence sent to the Science, Innovation and Technology committee is available at this [link](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/publications/3/correspondence/)
 
-{: .notice--warning} 
-update for completeness, add sources - e.g. for discussions and communications in Commons and Lords, communications from UKRI to the community etc.
+{: .notice--warning} update for completeness, add sources - e.g. for discussions and communications in Commons and Lords, communications from UKRI to the community etc.
 
 ### September 2026
 
@@ -51,23 +50,25 @@ update for completeness, add sources - e.g. for discussions and communications i
 
 ### September 2026
 
-- (PPAN) ResearchProfessionalNews, September 22, 2026: [Brian Cox: UKRI’s Cern project cut ‘damages science base’](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-9-brian-cox-ukri-s-cern-project-cut-damages-science-base/)
-- (PPAN) The Times, September 22, 2026 (behind paywall): [Brian Cox: Physics in Britain is facing a crisis](https://www.thetimes.com/uk/science/article/physics-uk-crisis-brian-cox-m78shg3s8)
-- The Guardian, September 14, 2026: [Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease](https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment), with some words regarding the STFC funding situation at the end.
-- BBC, September 1, 2026: [Science facilities protected from funding cuts](https://www.bbc.co.uk/news/articles/cvgy0xgq75no)
+- (PPAN) ResearchProfessionalNews, September 22 2026: [Brian Cox: UKRI’s Cern project cut ‘damages science base’](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-9-brian-cox-ukri-s-cern-project-cut-damages-science-base/)
+- (PPAN) The Times, September 22 2026 (behind paywall): [Brian Cox: Physics in Britain is facing a crisis](https://www.thetimes.com/uk/science/article/physics-uk-crisis-brian-cox-m78shg3s8)
+- The Guardian, September 14 2026: [Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease](https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment), with some words regarding the STFC funding situation at the end.
+- BBC, September 1 2026: [Science facilities protected from funding cuts](https://www.bbc.co.uk/news/articles/cvgy0xgq75no)
 
 ### August 2026
 
-- itv news, August 20, 2026: [How a top-secret atomic research site is becoming a science powerhouse](https://www.itv.com/watch/news/how-a-top-secret-atomic-research-site-is-becoming-a-science-powerhouse/9lvzs02) 
+- BBC, August 26 2026: [Concern at impact of £162m science research 'cuts'](https://www.bbc.com/news/articles/cr4v0n3z16ko)
+
+- itv news, August 20 2026: [How a top-secret atomic research site is becoming a science powerhouse](https://www.itv.com/watch/news/how-a-top-secret-atomic-research-site-is-becoming-a-science-powerhouse/9lvzs02) 
 	- [LinkedIn post with comments](https://lnkd.in/p/eaGhZewH)
-- BBC, August 26, 2026: [Concern at impact of £162m science research 'cuts'](https://www.bbc.com/news/articles/cr4v0n3z16ko)
-- Financial Times, Monday August 3, 2026 (behind paywall), Opinion: [Time for Andy Burnham to smile on UK science](https://www.ft.com/content/1419a5f5-1bd7-4b89-b667-45c2789769ef?syn-25a6b1a6=1)
-- (PPAN) The Guardian, Monday August 3, 2026: [Artists, writers and scientists urge UK government to save Jodrell Bank Observatory](https://www.theguardian.com/science/2026/aug/03/jodrell-bank-observatory-artists-writers-scientists-letter)
+
+- Financial Times, August 3 2026 (behind paywall), Opinion: [Time for Andy Burnham to smile on UK science](https://www.ft.com/content/1419a5f5-1bd7-4b89-b667-45c2789769ef?syn-25a6b1a6=1)
+- (PPAN) The Guardian, August 3 2026: [Artists, writers and scientists urge UK government to save Jodrell Bank Observatory](https://www.theguardian.com/science/2026/aug/03/jodrell-bank-observatory-artists-writers-scientists-letter)
 
 ### July 2026
 
-- The Guardian, Friday July 31, 2026, Opinion: [The Guardian view on the Lovell telescope: budget cuts to physics are bad science and worse politics](https://www.theguardian.com/commentisfree/2026/jul/31/the-guardian-view-on-the-lovell-telescope-cuts-physics-bad-science-politics)
-- (PPAN) Research Professional News, Friday July 31, 2026: [Jodrell Bank cuts test Burnham’s regional ambitions](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-7-jodrell-bank-cuts-first-test-to-burnham-s-regional-ambitions/ )
+- The Guardian, July 31 2026, Opinion: [The Guardian view on the Lovell telescope: budget cuts to physics are bad science and worse politics](https://www.theguardian.com/commentisfree/2026/jul/31/the-guardian-view-on-the-lovell-telescope-cuts-physics-bad-science-politics)
+- (PPAN) Research Professional News, July 31 2026: [Jodrell Bank cuts test Burnham’s regional ambitions](https://www.researchprofessionalnews.com/rr-news-uk-research-councils-2026-7-jodrell-bank-cuts-first-test-to-burnham-s-regional-ambitions/ )
 - (PPAN) Letters to The Guardian, Friday July 31, 2026: [Don’t let Jodrell Bank Observatory become another industrial museum](https://www.theguardian.com/science/2026/jul/31/dont-let-jodrell-bank-observatory-become-another-industrial-museum)
 
 - Institute of Physics (IOP), July 30 2026: [Future of UK physics threatened by 'ruinous' funding cuts, says Institute of Physics – Physics World](https://physicsworld.com/a/future-of-uk-physics-threatened-by-ruinous-funding-cuts-says-institute-of-physics/) 
@@ -75,7 +76,7 @@ update for completeness, add sources - e.g. for discussions and communications i
 - (PPAN) The Guardian, July 27, 2026: [Jodrell Bank Observatory facing closure after major funder cuts support](https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk )
 
 
-- Times Higher Education, July 8, 2026 (behind paywall): [Onwurah: ‘doctoring’ of STFC minutes raises governance concerns](https://www.timeshighereducation.com/news/onwurah-doctoring-stfc-minutes-raises-governance-concerns)
+- Times Higher Education, July 8 2026 (behind paywall): [Onwurah: ‘doctoring’ of STFC minutes raises governance concerns](https://www.timeshighereducation.com/news/onwurah-doctoring-stfc-minutes-raises-governance-concerns)
 
 
 ## Freedom of Information Requests {#FOI}
@@ -99,7 +100,7 @@ Relevant links:
 
 ## Community Testimonials {#testimonials}
 
-- LinkedIn, August 27, 2026 [The STFC Cuts Dementia Researchers Need to Know About](https://www.linkedin.com/pulse/stfc-cuts-dementia-researchers-need-know-adam-smith-u1ome/?trackingId=00cprPRUSuqKfDkC6kRIXA%3D%3D) - "[The funding cuts don't] mean that the research will definitely come to an end. It is possible for scientists to transfer their experiments to facilities in other parts of Europe, in North America or in Asia, and international collaboration has always been a feature of this type of work. However, obtaining access abroad is competitive, costly and more difficult to organise, especially for early-career researchers and smaller teams. Over time, the people, the partnerships and the expertise are likely to move to where the equipment is located. The UK could therefore continue to fund dementia research while much of the analysis, the training and the eventual economic benefit take place in countries that have decided to keep the necessary facilities."
+- LinkedIn, August 27 2026 [The STFC Cuts Dementia Researchers Need to Know About](https://www.linkedin.com/pulse/stfc-cuts-dementia-researchers-need-know-adam-smith-u1ome/?trackingId=00cprPRUSuqKfDkC6kRIXA%3D%3D) - "[The funding cuts don't] mean that the research will definitely come to an end. It is possible for scientists to transfer their experiments to facilities in other parts of Europe, in North America or in Asia, and international collaboration has always been a feature of this type of work. However, obtaining access abroad is competitive, costly and more difficult to organise, especially for early-career researchers and smaller teams. Over time, the people, the partnerships and the expertise are likely to move to where the equipment is located. The UK could therefore continue to fund dementia research while much of the analysis, the training and the eventual economic benefit take place in countries that have decided to keep the necessary facilities."
 
 
 ## Further Links {#further_links}
