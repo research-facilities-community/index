@@ -13,8 +13,6 @@ Reduced access to, or loss of, national research infrastructure would have conse
 
 Access to interdisciplinary research facilities is typically provided either through contractual arrangements funded by non-STFC research grants or through competitive, peer-reviewed allocation of beam time. Because facility access is distributed across many disciplines, institutions, and funding sources, the full impact of STFC funding reductions on the UK research ecosystem can be difficult to quantify. Nevertheless, any sustained reduction in facility access, capability, or staffing is likely to have far-reaching effects on research capacity, innovation, skills development, and the UK's long-term competitiveness across multiple fields.
 
-{: .notice--warning} 
-improve, add sources
 
 
 ## ISIS Neutron and Muon Source {#ISIS}
