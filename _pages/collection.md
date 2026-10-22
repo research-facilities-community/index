@@ -17,8 +17,7 @@ This section brings together letters, STFC communications, parliamentary discuss
 
 **NOTE:** All the correspondence sent to the Science, Innovation and Technology committee is available at this [link](https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/publications/3/correspondence/)
 
-{: .notice--warning}
-update for completeness, add sources - e.g. for discussions and communications in Commons and Lords, communications from UKRI to the community etc.
+
 
 ### September 2026
 
@@ -104,7 +103,3 @@ Relevant links:
 - LinkedIn, August 27 2026 [The STFC Cuts Dementia Researchers Need to Know About](https://www.linkedin.com/pulse/stfc-cuts-dementia-researchers-need-know-adam-smith-u1ome/?trackingId=00cprPRUSuqKfDkC6kRIXA%3D%3D) - "[The funding cuts don't] mean that the research will definitely come to an end. It is possible for scientists to transfer their experiments to facilities in other parts of Europe, in North America or in Asia, and international collaboration has always been a feature of this type of work. However, obtaining access abroad is competitive, costly and more difficult to organise, especially for early-career researchers and smaller teams. Over time, the people, the partnerships and the expertise are likely to move to where the equipment is located. The UK could therefore continue to fund dementia research while much of the analysis, the training and the eventual economic benefit take place in countries that have decided to keep the necessary facilities."
 
 
-## Further Links {#further_links}
-
-{: .notice--warning}
-Placeholder for so-far unclassified items, or other relevant information - remove if not needed!
