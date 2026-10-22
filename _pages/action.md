@@ -27,9 +27,6 @@ Please get in touch if you have suggestions, would like advice, wish to contribu
 
 If you are unsure whether a piece of evidence, experience or connection would be useful, please contact us anyway. What appears small or local can often make a substantial difference when combined with other evidence.
 
-{: .notice--warning} 
-is everyone okay to have their name listed here, and are there other volunteers as well?
-
 
 ## Letters to MPs {#MPletters}
 
@@ -60,8 +57,7 @@ Letter regarding funding cuts to the **Central Laser Facility**:
 For **Early Career Researchers** affected by STFC cuts to Facilities and National Laboratories :
 [https://stfc-open-letter.co.uk/ecr-letter](https://stfc-open-letter.co.uk/ecr-letter "https://stfc-open-letter.co.uk/ecr-letter")
 
-{: .notice--warning} 
-Add follow-up communications, where open letters have been replied to.
+
 
 
 
